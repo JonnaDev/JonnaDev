@@ -5,7 +5,7 @@ Desarrollador **Full Stack • Web/CRM** apasionado por crear arquitecturas limp
 ---
 
 <p align="center">
-  <img src="https://imgur.com/a/rC3o5Xx.png" alt="JonnaDev | Full Stack Developer Banner">
+  <img src="https://i.imgur.com/rC3o5Xx.png" alt="JonnaDev | Full Stack Developer Banner">
 </p>
 
 ---
